@@ -12,24 +12,24 @@ The goal of Week 1 is to prepare issue data for topic modeling. This includes re
 
 ```text
 Week_1
-¦
+Â¦
 +-- data
-¦   +-- raw
-¦   ¦   +-- issues.xlsx
-¦   +-- processed
-¦   +-- outputs
-¦
+Â¦   +-- raw
+Â¦   Â¦   +-- issues.xlsx
+Â¦   +-- processed
+Â¦   +-- outputs
+Â¦
 +-- scripts
-¦   +-- 01_read_tika_issue_list.py
-¦   +-- 02_download_tika_jira_issues.py
-¦   +-- 03_preprocess_tika_text.py
-¦   +-- 04_create_tika_vocabulary.py
-¦   +-- 05_create_tika_document_term_matrix.py
-¦
+Â¦   +-- 01_read_tika_issue_list.py
+Â¦   +-- 02_download_tika_jira_issues.py
+Â¦   +-- 03_preprocess_tika_text.py
+Â¦   +-- 04_create_tika_vocabulary.py
+Â¦   +-- 05_create_tika_document_term_matrix.py
+Â¦
 +-- notebooks
-¦
+Â¦
 +-- references
-¦
+Â¦
 +-- requirements.txt
 +-- README.md
 ```
@@ -39,7 +39,7 @@ Week_1
 Open PowerShell and go to the Week 1 folder:
 
 ```powershell
-cd "C:\Users\obinn\Downloads\Courses\Summer\DSSE\Assignments\3\Week_1"
+cd "C:\Users\DSSE\Week_1"
 ```
 
 Create a Python virtual environment:
@@ -160,7 +160,7 @@ data\outputs\tika_document_term_matrix.csv
 data\outputs\tika_feature_names.csv
 ```
 
-## Expected Week 1 Outputs
+## Week 1 Outputs
 
 ```text
 data\processed\tika_issue_list.csv
