@@ -1,0 +1,8 @@
+pandas
+openpyxl
+jira
+nltk
+scikit-learn
+gensim
+matplotlib
+tqdm
