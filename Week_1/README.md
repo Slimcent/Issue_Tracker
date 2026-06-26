@@ -1,4 +1,4 @@
-# Assignment 3 - Week 1: Jira Issue Data Preparation for Apache Tika
+# Week 1: Jira Issue Data Preparation for Apache Tika
 
 ## Project
 
